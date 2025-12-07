@@ -1,3 +1,6 @@
+developed by - @flexy.poo [ discord ] -------- @flexypooo [ telegram ]
+
+
 line 8 vouches.py - bot token
 line 9 vouches.py - owner id
 
